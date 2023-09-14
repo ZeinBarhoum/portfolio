@@ -27095,7 +27095,7 @@ var _stylesCss = require("./styles.css");
     linkedIn: "zein-alabedeen-barhoum",
     medium: "",
     twitter: "",
-    youTube: "zeinbarhoum"
+    youTube: "@zeinbarhoum"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -28691,8 +28691,7 @@ const Home = ({ name , title  })=>{
                 fileName: "src/Components/Home.jsx",
                 lineNumber: 35,
                 columnNumber: 7
-            }, undefined),
-            "W"
+            }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Home.jsx",
