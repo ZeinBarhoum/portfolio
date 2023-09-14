@@ -27095,7 +27095,7 @@ var _stylesCss = require("./styles.css");
     linkedIn: "zein-alabedeen-barhoum",
     medium: "",
     twitter: "",
-    youTube: "@zeinbarhoum"
+    youTube: "zeinbarhoum"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -27677,7 +27677,7 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                         columnNumber: 11
                     }, undefined),
                     youTube && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: `https://www.youtube.com/c/${youTube}`,
+                        href: `https://www.youtube.com/@${youTube}`,
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
