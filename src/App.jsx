@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "zein-alabedeen-barhoum",
   medium: "",
   twitter: "",
-  youTube: "zeinbarhoum",
+  youTube: "@zeinbarhoum",
 };
 
 const primaryColor = "#4E567E";
