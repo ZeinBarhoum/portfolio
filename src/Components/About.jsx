@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/texture.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "gray abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
+const description1 =
   "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+const description = "I'm a Robotics Engineer pursuing a Master's degree in Robotics and AI. I strive to develop innovative solutions in the field of robotics.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Robotics",
+  "Robot Operating System (ROS)",
+  "Python Programming",
+  "Machine Learning / Deep Learning",
+  "Computer Vision",
+  "Computer Aided Design (CAD)",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Robotics and Programming experience I continually look for new and better ways to develop intelligent robotics solutions.";
 
 const About = () => {
   return (

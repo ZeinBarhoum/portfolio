@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/manipulator.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Reinforcement Learning For Quadrotors",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " The Quadrotor Reinforcement Learning project focuses on teaching a quadrotor how to fly in a simulated environment using reinforcement learning algorithms using PyTorch for implementing the reinforcement learning algorithms, and PyBullet for creating the simulated environemnt.",
+    url: "https://github.com/ZeinBarhoum/RL-quadrotor",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Chess Manipulator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Chess Manipulator is a simulation of a FRANKA EMIKA Panda robotic arm programmed to play chess. The project utilizes Gazebo simulation and ROS2 for implementation. The robotic arm is capable of making chess moves and interacting with the chessboard in a simulated environment.",
+    url: "https://github.com/ZeinBarhoum/chess_manipulator",
   },
   {
-    title: "My Resume Site",
+    title: "Underwater Glider",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The Underwater Glider is an autonomous underwater vehicle that operates without external propellers or thrusters. This project involved the design, modeling, simulation, manufacturing, testing, and control of the underwater glider.",
+    url: "https://github.com/ZeinBarhoum/Underwater-Glider",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Quadrotor Trajectory Planning and Control",
+    description: "Comming Soon...",
+    url: "https://github.com/ZeinBarhoum",
   },
 ];
 
